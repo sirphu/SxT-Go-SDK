@@ -1,0 +1,20 @@
+SDK ready for production (#6)
+* NodeJS SDK ready
+
+* minor fix
+
+* removed unnecessary library and logs
+
+* Updated DDL, DML and DQL to match latest changes and added in wildcard biscuit support
+
+* updated create schema
+
+* updated examples and readme to latest
+
+* minor example change
+
+* NodeJs library code ready
+
+* Biscuit generation minor patch
+
+* Hot fix
